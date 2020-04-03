@@ -1,4 +1,3 @@
-# oauth-playlist
-Course files for The Net Ninja OAuth playlist on YouTube
+# Borrow OAuth with Google
 
-[Link to the playlist Youtube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x "Link to the playlist 'Youtube'")
+Connecting client to server

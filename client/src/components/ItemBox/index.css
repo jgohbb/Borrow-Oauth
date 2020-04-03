@@ -1,0 +1,54 @@
+.logo-icon {
+    width: 20px;
+}
+
+a.links {
+    text-decoration: none;
+    font-size: 15px;
+    color: grey;
+    margin-right: 1em;
+    margin-bottom: -1em;
+    
+}
+
+.card-modal {
+    background-color: white;
+    box-shadow: 1px 1px 3px 0px rgba(50, 50, 50, 0.25);
+    border: none;
+}
+
+.titles {
+    font-size: x-small;
+}
+
+p {
+    font-size: x-small;
+}
+.price-text {
+    font-size: x-small;
+    color: teal;
+}
+
+.image-sizing {
+    height: 100px;
+}
+
+.category-text {
+    font-size: xx-small;
+    color: grey;
+    font-style: italic;
+}
+
+.price-num {
+    font-weight: bold;
+    color: #777777;
+}
+
+.item-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.description-text {
+    font-size: xx-small;
+}
